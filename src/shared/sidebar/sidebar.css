@@ -1,0 +1,42 @@
+.first-navlink{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    border-radius: 12px;
+    padding:12px 16px;
+}
+div > ul > li:nth-child(1) a:first-child,
+div > ul > li:nth-child(8) a:first-child{
+    border-radius: 12px;
+    padding:12px 16px;
+}
+
+div > ul > li:nth-child(1) > .first-navlink > p,
+div > ul > li:nth-child(2) > .first-navlink > p,
+div > ul > li:nth-child(3) > .first-navlink > p,
+div > ul > li:nth-child(4) > .first-navlink > p,
+div > ul > li:nth-child(5) > .first-navlink > p,
+div > ul > li:nth-child(6) > .first-navlink > p,
+div > ul > li:nth-child(7) > .first-navlink > p,
+div > ul > li:nth-child(9) > .first-navlink > p,
+div > ul > li:nth-child(10) > .first-navlink > p,
+div > ul > li:nth-child(11) > .first-navlink > p {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+div > ul > li:nth-child(5) > .first-navlink > p > svg,
+div > ul > li:nth-child(8) svg{
+ margin-left: -3px;
+ color: red;
+}
+div > ul > li > .first-navlink:hover,
+div > ul > li:nth-child(1) a:first-child:hover,
+div > ul > li:nth-child(8) a:first-child:hover{
+    background: rgba(254, 71, 17, 0.10);
+}
+
+div > ul  li ul li .active{
+    color: red;
+}

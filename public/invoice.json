@@ -1,0 +1,83 @@
+[
+    {
+      "invoice": 10021,
+      "status": "Paid",
+      "amount": 2500,
+      "issueDate": "2023-01-03",
+      "createdDate": "2023-01-17",
+      "dueDate": "2023-01-17"
+    },
+    {
+      "invoice": 10022,
+      "status": "In Transit",
+      "amount": 3750,
+      "issueDate": "2023-02-10",
+      "createdDate": "2023-02-15",
+      "dueDate": "2023-02-28"
+    },
+    {
+      "invoice": 10023,
+      "status": "Delivered",
+      "amount": 4200,
+      "issueDate": "2023-03-01",
+      "createdDate": "2023-03-05",
+      "dueDate": "2023-03-20"
+    },
+    {
+      "invoice": 10024,
+      "status": "Pending",
+      "amount": 3100,
+      "issueDate": "2023-04-15",
+      "createdDate": "2023-04-18",
+      "dueDate": "2023-04-25"
+    },
+    {
+      "invoice": 10025,
+      "status": "Overdue",
+      "amount": 2890,
+      "issueDate": "2023-05-10",
+      "createdDate": "2023-05-15",
+      "dueDate": "2023-05-20"
+    },
+    {
+      "invoice": 10026,
+      "status": "Paid",
+      "amount": 2500,
+      "issueDate": "2023-06-07",
+      "createdDate": "2023-06-10",
+      "dueDate": "2023-06-20"
+    },
+    {
+      "invoice": 10027,
+      "status": "In Transit",
+      "amount": 4950,
+      "issueDate": "2023-07-02",
+      "createdDate": "2023-07-05",
+      "dueDate": "2023-07-20"
+    },
+    {
+      "invoice": 10028,
+      "status": "Delivered",
+      "amount": 4200,
+      "issueDate": "2023-08-11",
+      "createdDate": "2023-08-15",
+      "dueDate": "2023-08-20"
+    },
+    {
+      "invoice": 10029,
+      "status": "Pending",
+      "amount": 3675,
+      "issueDate": "2023-09-05",
+      "createdDate": "2023-09-07",
+      "dueDate": "2023-09-20"
+    },
+    {
+      "invoice": 10030,
+      "status": "Overdue",
+      "amount": 5200,
+      "issueDate": "2023-10-01",
+      "createdDate": "2023-10-03",
+      "dueDate": "2023-10-20"
+    }
+  ]
+  

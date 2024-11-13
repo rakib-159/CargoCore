@@ -1,0 +1,73 @@
+[
+    {
+      "load_id": 178003,
+      "company_name": "Bakers Delight Inc",
+      "invoice_total": "$2,540.00",
+      "bills_total": "$1,800.00",
+      "gross_pl": "$740.00"
+    },
+    {
+      "load_id": 178004,
+      "company_name": "Fast Wheels Logistics",
+      "invoice_total": "$4,120.00",
+      "bills_total": "$2,500.00",
+      "gross_pl": "$1,620.00"
+    },
+    {
+      "load_id": 178005,
+      "company_name": "Green Grocers Co.",
+      "invoice_total": "$3,200.00",
+      "bills_total": "$2,000.00",
+      "gross_pl": "$1,200.00"
+    },
+    {
+      "load_id": 178006,
+      "company_name": "City Builders LLC",
+      "invoice_total": "$6,000.00",
+      "bills_total": "$3,500.00",
+      "gross_pl": "$2,500.00"
+    },
+    {
+      "load_id": 178007,
+      "company_name": "Tech Gadgets Ltd.",
+      "invoice_total": "$7,800.00",
+      "bills_total": "$5,200.00",
+      "gross_pl": "$2,600.00"
+    },
+    {
+      "load_id": 178008,
+      "company_name": "Tech Gadgets Ltd.",
+      "invoice_total": "$1,350.00",
+      "bills_total": "$850.00",
+      "gross_pl": "$500.00"
+    },
+    {
+      "load_id": 178009,
+      "company_name": "Fresh Farm Products Inc.",
+      "invoice_total": "$1,350.00",
+      "bills_total": "$900.00",
+      "gross_pl": "$450.00"
+    },
+    {
+      "load_id": 178010,
+      "company_name": "Prime Automotive Parts",
+      "invoice_total": "$2,850.00",
+      "bills_total": "$1,800.00",
+      "gross_pl": "$1,050.00"
+    },
+    {
+      "load_id": 178011,
+      "company_name": "Oceanic Import/Export",
+      "invoice_total": "$4,675.00",
+      "bills_total": "$3,000.00",
+      "gross_pl": "$1,675.00"
+    },
+    {
+      "load_id": 178012,
+      "company_name": "High Flyer Aviation",
+      "invoice_total": "$9,500.00",
+      "bills_total": "$6,500.00",
+      "gross_pl": "$3,000.00"
+    }
+  ]
+  
